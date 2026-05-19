@@ -42,7 +42,8 @@ while True:
 
 ## OUTPUT 
 
-![CN ex 2a](https://github.com/user-attachments/assets/33def1d8-0992-4b65-b6f6-899453ba5bcc)
+<img width="1588" height="833" alt="WhatsApp Image 2026-05-19 at 11 07 25" src="https://github.com/user-attachments/assets/cb5e0b4c-89d3-40ad-82a6-6e2c77b0cb7d" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
